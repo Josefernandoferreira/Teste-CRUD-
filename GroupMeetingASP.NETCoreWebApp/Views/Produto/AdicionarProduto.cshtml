@@ -1,0 +1,36 @@
+﻿@model CRUD.Models.ProdutoModel
+@{
+    ViewData["Title"] = "AdicionarProduto";
+}
+
+<h2>Adicionar Novo Produto</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AdicionarProduto">
+            <div class="form-group">
+                <label class="control-label">Nome</label>
+                <input asp-for="NomeProduto" class="form-control" />
+                <span class="alert-danger" asp-validation-for="NomeProduto"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+ 
+                <select asp-for="StatusProd" class="form-control">
+                    <option value="Ativo"> Ativo </option>
+                    <option value="Inativo"> Inativo</option>>
+                </select>
+                
+                <span class="alert-danger" asp-validation-for="StatusProd"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Adicionar Produto" class="btn btn-success btn-sm" />
+            </div>
+        </form>
+    </div>
+    <div class="col-md-8">
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Voltar ao Inicío</a>
+</div>

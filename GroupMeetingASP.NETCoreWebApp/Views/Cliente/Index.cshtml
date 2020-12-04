@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CRUD.Models.ClienteModel>
+@{
+    ViewData["Title"] = "Index";
+}
+<hr>
+<h4>
+    <a asp-action="AdicionarCliente">Adicionar Cliente</a>
+</h4>
+<div>
+    <table class="table table-responsive table-bordered panel-primary">
+        <thead>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>CPF</th>
+            <th>Produto</th>
+        <td></th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            { 
+            <tr>
+                <td>@Html.DisplayFor(model => item.NomeCliente)</td>
+                <td>@Html.DisplayFor(model => item.Email)</td>
+                <td>@Html.DisplayFor(model => item.CPF)</td>
+                <td>@Html.DisplayFor(model => item.IdProduto)</td>
+                <td>
+                    <a asp-action="EditarCliente" asp-route-id="@item.IdCliente">Editar</a>|
+                    <a asp-action="DeletarCliente" asp-route-id="@item.IdCliente">Deletar</a>
+                </td>
+            </tr>
+
+            }
+        </tbody>
+    </table>
+</div>

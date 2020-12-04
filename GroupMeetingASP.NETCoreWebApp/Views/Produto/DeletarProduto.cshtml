@@ -1,0 +1,27 @@
+﻿@model CRUD.Models.ProdutoModel
+@{
+    ViewData["Title"] = "DeletarProduto";
+}
+
+<h3 class="alert">Deseja confirmar a exclusão?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+           Nome do Produto
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomeProduto)
+        </dd>
+        <dt>
+            Status
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StatusProd)
+        </dd>
+    </dl>
+
+    <form asp-action="DeletarProduto">
+        <input type="hidden" asp-for="IdProduto" />
+        <input type="submit" value="Sim" class="btn btn-danger btn-sm" /> <a asp-action="Index" class="btn btn-danger">Não</a>
+    </form>
+</div>  

@@ -1,0 +1,43 @@
+﻿@model CRUD.Models.ClienteModel
+@{
+    ViewData["Title"] = "EditarCliente";
+}
+<hr>
+<h4>Editar Cliente</h4>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditarCliente">
+            <input type="hidden" asp-for="IdCliente" />
+            <div class="form-group">
+                <label asp-for="IdCliente" class="control-label"></label>
+                <input asp-for="IdCliente" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label"> Nome</label>
+                <input asp-for="NomeCliente" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+                <input asp-for="Email" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">CPF</label>
+                <input asp-for="CPF" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Produto</label>
+                <input asp-for="IdProduto" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Confirmar Edição" class="btn btn-success btn-sm" />
+            </div>
+        </form>
+    </div>
+    <div class="col-md-8">
+
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
+

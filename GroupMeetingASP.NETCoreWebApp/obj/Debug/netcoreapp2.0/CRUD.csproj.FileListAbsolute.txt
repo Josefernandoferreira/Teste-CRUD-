@@ -1,0 +1,78 @@
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.deps.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.dev.json
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csprojAssemblyReference.cache
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfo.cs
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Downloads\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.genruntimeconfig.cache
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.deps.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.dev.json
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csprojAssemblyReference.cache
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfo.cs
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.genruntimeconfig.cache
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.deps.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.dev.json
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csprojAssemblyReference.cache
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfo.cs
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\Meus Projetos\Projeto CRUD - com Dapper\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.genruntimeconfig.cache
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.deps.json
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.json
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.dev.json
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csprojAssemblyReference.cache
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfo.cs
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.genruntimeconfig.cache
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.deps.json
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.json
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.runtimeconfig.dev.json
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csprojAssemblyReference.cache
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.AssemblyInfo.cs
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.dll
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.pdb
+C:\Users\jose.araujo\Desktop\Teste CRUD\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\CRUD.genruntimeconfig.cache

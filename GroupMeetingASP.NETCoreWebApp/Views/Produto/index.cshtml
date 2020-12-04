@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CRUD.Models.ProdutoModel>
+@{
+    ViewData["Title"] = "Index";
+}
+<hr>
+<h4>
+    <a asp-action="AdicionarProduto">Adicionar Produto</a>
+</h4>
+<div>
+    <table class="table table-responsive table-bordered panel-primary">
+        <thead>
+        <th>Código</th>
+        <th>Nome do Produto</th>
+        <th>Status</th>
+
+        <td>
+            </th> Opções
+            </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@Html.DisplayFor(model => item.IdProduto)</td>
+                <td>@Html.DisplayFor(model => item.NomeProduto)</td>
+                <td>@Html.DisplayFor(model => item.StatusProd)</td>
+                <td>
+                    <a asp-action="EditarProduto" asp-route-id="@item.IdProduto">Editar</a>|
+                    <a asp-action="DeletarProduto" asp-route-id="@item.IdProduto">Deletar</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

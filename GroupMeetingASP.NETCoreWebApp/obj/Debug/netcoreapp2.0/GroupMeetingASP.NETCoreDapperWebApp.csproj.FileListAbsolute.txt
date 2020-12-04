@@ -1,0 +1,11 @@
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.deps.json
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.runtimeconfig.json
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.runtimeconfig.dev.json
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.dll
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\bin\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.pdb
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.csprojAssemblyReference.cache
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.csproj.CoreCompileInputs.cache
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.AssemblyInfoInputs.cache
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.AssemblyInfo.cs
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.dll
+G:\ASP.NETCoreBatch\GroupMeetingASP.NETCoreDapperWebApp\GroupMeetingASP.NETCoreWebApp\obj\Debug\netcoreapp2.0\GroupMeetingASP.NETCoreDapperWebApp.pdb
